@@ -1,5 +1,4 @@
-# 💫 About Me:
-## 👨‍💻 About Me
+# 💫 About Me 👨‍💻:
 
 💡 Passionate and detail-oriented Computer Science graduate  
 💻 Skilled in Java backend development & web technologies  
