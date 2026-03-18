@@ -1,5 +1,26 @@
 # 💫 About Me:
-- 🎓 Diploma in Electronics Engineering<br>- 💻 Passionate about Backend Development<br>- 🚀 Building real-world projects<br>
+## 👨‍💻 About Me
+
+💡 Passionate and detail-oriented Computer Science graduate  
+💻 Skilled in Java backend development & web technologies  
+
+🚀 Built real-world projects:
+- 🧑‍💼 Job Portal  
+- 📝 Quiz System  
+- 🌐 Portfolio Website  
+
+⚙️ Tech Stack:
+- ☕ Java (JSP)  
+- 🗄️ MySQL  
+- 🅰️ Angular  
+
+🔗 Strong understanding of:
+- 🔄 REST APIs  
+- 🔧 CRUD Operations  
+- 📱 Responsive UI Design  
+
+🎯 Looking for an entry-level Backend / Software Developer role  
+📈 Eager to learn, grow, and contribute to real-world applications  
 
 
 ## 🌐 Socials:
